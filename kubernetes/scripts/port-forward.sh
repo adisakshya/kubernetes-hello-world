@@ -1,0 +1,1 @@
+kubectl port-forward flask-deployment-5b44f997c-c76cb 5000:5000
