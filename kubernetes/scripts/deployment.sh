@@ -1,1 +1,1 @@
-kubectl apply -f kubernetes/deployment/deployment.yml
+kubectl apply -f kubernetes/deployment/flask-deployment.yml
